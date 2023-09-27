@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Akanksha
 - 👀 I’m interested in Data Analystics
 - 🌱 I’m currently learning Data Analytics from IBM skills training
-- 💞️ I’m looking to collaborate on Data
+- 💞️ I’m looking for job in Data Analytics.
 - 📫 Reach me at my email akankshasahu048@gmail.com or my Linkedin: https://www.linkedin.com/in/akanksha-sahu-218160176/
 
 <!---
