@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akanksha
 - 👀 I’m interested in Data Analytics and Quality Assurance
-- 🌱 I’m currently learning Data Analytics from IBM skills training
+- 🌱 I’m learning Data Analytics from IBM skills training
 - 💞️ I’m looking for Quality Assurance Analyst role or Data Analyst role or similar role where I can leverage my QA, Analytical, Problem-solving skills
 - 📫 Reach me at my email akankshasahu048@gmail.com or my Linkedin: https://www.linkedin.com/in/akanksha-sahu-218160176/
 
